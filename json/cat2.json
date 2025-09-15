@@ -1,4 +1,21 @@
 {
+    "sjustin": [
+        { "id": "uploaded_today", "title": "💃 Today’s Drodps" },
+        { "id": "denim", "title": "Casual Chic in Denim 👖" },
+        { "id": "glass", "title": "👓 Smart & Stunning" },
+        { "id": "school", "title": "🎓 Campus Crush" },
+
+        { "id": "this_weekend", "title": "🦵 This Weekend" },
+        { "id": "first_seen_this_week", "title": "👀 First Seen This Week" },
+        { "id": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
+        { "id": "trending_now", "title": "🔥 Trending Now" },
+        { "id": "most_viewed", "title": "👀 Most Viewed" },
+        { "id": "fan_favorites", "title": "❤️ Fan Favorites" },
+        { "id": "editors_picks", "title": "🎨 Editor’s Picks" }
+    ],
+
+
+
     "bwxy": [
         { "id": "daily", "title": "🔥 Daily Fresh" },
 
@@ -111,21 +128,6 @@
 
     ],
 
-
-    "sjustin": [
-        { "id": "uploaded_today", "title": "💃 Today’s Drops" },
-        { "id": "denim", "title": "Casual Chic in Denim 👖" },
-        { "id": "glass", "title": "👓 Smart & Stunning" },
-        { "id": "school", "title": "🎓 Campus Crush" },
-
-        { "id": "this_weekend", "title": "🦵 This Weekend" },
-        { "id": "first_seen_this_week", "title": "👀 First Seen This Week" },
-        { "id": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
-        { "id": "trending_now", "title": "🔥 Trending Now" },
-        { "id": "most_viewed", "title": "👀 Most Viewed" },
-        { "id": "fan_favorites", "title": "❤️ Fan Favorites" },
-        { "id": "editors_picks", "title": "🎨 Editor’s Picks" }
-    ],
 
     "ssart": [
         { "id": "weddings", "title": "💍 Angelically Innocent" },
