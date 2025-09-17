@@ -549,7 +549,6 @@
         { "id": "demin", "title": "Casual Chic in Demin 👖" },
         { "id": "desktop_wallpaper", "title": "👔 Desktop" },
         { "id": "floral", "title": "🌸 Flirty Floral Charms" },
-        { "id": "haltertop", "title": "🎀 Allure en Halter" },
         { "id": "heart", "title": "🖤 Mysterious Black Heart" },
         { "id": "highneckhalter", "title": "👗 Chic in High-Neck Halter" },
         { "id": "kendall", "title": "👠 The Allure of Kendall Style" },
@@ -578,7 +577,7 @@
     ],
 
 
-    "bgif": [
+    "bgifmp4": [
         { "id": "gif", "title": "🎞️ Animated GIFs" }
     ],
     "abpast": [
