@@ -327,9 +327,6 @@
         { "id": "zhouyuxi", "title": "Zhou Yuxi's Elegance 🎀" }
     ],
 
-
-
-
     "ssarts": [
         { "id": "weddings", "title": "💍 Angelically Innocent" },
         { "id": "wallpaper", "title": "🌸 Chic Wallpaper" },
@@ -546,7 +543,7 @@
         { "id": "whiteshirt", "title": "👔 Undone Desire: White Shirt Temptation" }
     ],
 
-    "abss": [
+    "abstyles": [
         { "id": "bodycon", "title": "🔥 Sensual & Sculpted Bodycon" },
         { "id": "cheongsam", "title": "💃 Elegant in Timeless Cheongsam" },
         { "id": "demin", "title": "Casual Chic in Demin 👖" },
