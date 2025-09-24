@@ -1,10 +1,6 @@
 {
     "sjustin": [
         { "id": "uploaded_today", "title": "💃 Today’s Drops" },
-        { "id": "denim", "title": "Casual Chic in Denim 👖" },
-        { "id": "glass", "title": "👓 Smart & Stunning" },
-        { "id": "school", "title": "🎓 Campus Crush" },
-
         { "id": "this_weekend", "title": "🦵 This Weekend" },
         { "id": "first_seen_this_week", "title": "👀 First Seen This Week" },
         { "id": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
@@ -14,6 +10,32 @@
         { "id": "editors_picks", "title": "🎨 Editor’s Picks" }
     ],
 
+    "selite": [
+        { "id": "royal_bloom", "title": "👑 Royal Bloom" },
+        { "id": "glamour_dreams", "title": "💎 Glamour Dreams" },
+        { "id": "sophisticated_vibes", "title": "✨ Sophisticated Vibes" },
+        { "id": "queenly_charm", "title": "👑 Queenly Charm" },
+        { "id": "opulent_style", "title": "💫 Opulent Style" },
+        { "id": "luxury_queen", "title": "💎 Luxury Queen" },
+        { "id": "elegant_silhouettes", "title": "🌟 Elegant Silhouettes" },
+        { "id": "vintage_royalty", "title": "🕰️ Vintage Royalty" },
+        { "id": "glamour_ensemble", "title": "💃 Glamour Ensemble" },
+        { "id": "celestial_grace", "title": "🌙 Celestial Grace" }
+    ],
+
+
+    "sivylook": [
+        { "id": "ivy_chic", "title": "🌿 Ivy Chic" },
+        { "id": "campus_elegance", "title": "🎓 Campus Elegance" },
+        { "id": "preppy_girl", "title": "🍃 Preppy Girl" },
+        { "id": "bookish_beauty", "title": "📚 Bookish Beauty" },
+        { "id": "freshman_finesse", "title": "💼 Freshman Finesse" },
+        { "id": "studious_seduction", "title": "📖 Studious Seduction" },
+        { "id": "campus_couture", "title": "🎒 Campus Couture" },
+        { "id": "ivy_dreams", "title": "🌱 Ivy Dreams" },
+        { "id": "serene_scholar", "title": "🍂 Serene Scholar" },
+        { "id": "classy_nerd", "title": "📚 Classy Nerd" }
+    ],
 
     "abstunning": [
         { "id": "vintage_vixens", "title": "🔥 Vintage Vixens" },
