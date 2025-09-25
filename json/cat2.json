@@ -94,6 +94,25 @@
         { "id": "xstrap", "title": "❌ X-Strap" }
     ],
 
+    "cctimeless": [
+        { "id": "justin", "title": "🌅 Morning Glow" },
+        { "id": "multiple", "title": "☀️ Carousel Vibes" },
+        { "id": "y2022", "title": "🍵 Afternoon Tea" },
+        { "id": "y2023", "title": "🌇 Sunset Walk" },
+        { "id": "y2024", "title": "🌙 Evening Chic" }
+    ],
+
+    "ccwardrobe": [
+    { "id": "che_chinese", "title": "🇨🇳 Chinese Style" },
+    { "id": "che_fashion", "title": "💃 Fashion Wear" },
+    { "id": "che_japanese", "title": "🎌 Japanese Style" },
+    { "id": "che_korean", "title": "🇰🇷 Korean Style" },
+    { "id": "che_southasia", "title": "🕌 South Asian" },
+    { "id": "denim", "title": "👖 Denim" },
+    { "id": "fur", "title": "🧥 Fur" },
+    { "id": "pants", "title": "👖 Pants" }
+],
+
 
 
     "cccasual": [
@@ -677,3 +696,5 @@
     ]
 
 }
+    
+
