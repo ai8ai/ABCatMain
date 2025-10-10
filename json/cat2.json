@@ -624,8 +624,7 @@
 
 
     "bgifmp4": [
-        { "id": "gif", "title": "🎞️ Animated GIFs" },
-        { "id": "mp4", "title": "🎥 Captivating MP4s" }
+        { "id": "gif", "title": "🎞️ Animated GIFs" }
     ],
     "abpast": [
         { "id": "b2025", "title": "🌶️ Elegant 2025" },
