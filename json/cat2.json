@@ -659,6 +659,9 @@
         { "id": "split", "title": "💃Split Siren" },
         { "id": "underwear", "title": "👔 Underwear Soft" }
     ],
+    "sche": [
+        { "id": "cheongsam", "title": "💃 Elegant in Timeless Cheongsam" }
+    ],
 
     "ccmain": [
         { "id": "justin", "title": "💃 Just In 🔥"},
