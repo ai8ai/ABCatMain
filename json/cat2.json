@@ -659,8 +659,15 @@
         { "id": "split", "title": "💃Split Siren" },
         { "id": "underwear", "title": "👔 Underwear Soft" }
     ],
-    "sche": [
-        { "id": "cheongsam", "title": "💃 Elegant in Timeless Cheongsam" }
+
+    "scheongsam": [
+        { "id": "cheongsam", "title": "💃 Elegant in Timeless Cheongsam" },
+        { "id": "chinese", "title": "🏮 Graceful Chinese Heritage" },
+        { "id": "drawing", "title": "🎨 Artistic Sketch & Drawing" },
+        { "id": "garden", "title": "🌺 Dreamy Garden Romance" },
+        { "id": "golden", "title": "✨ Golden Glamour & Radiance" },
+        { "id": "japanese", "title": "🎎 Serene Japanese Aesthetics" },
+        { "id": "shanghai", "title": "🌆 Retro Shanghai Elegance" }
     ],
 
     "ccmain": [
